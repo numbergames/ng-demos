@@ -46,7 +46,7 @@ Runs locally, no database required.
 The dev build does not optimize the deployed code. It simply runs it in place. You can run a dev build in multiple ways.
 
 ####Option 1 - Serve
-Type `gulp serve-dev` and browse to `http://localhost:7200`
+Type `gulp serve-dev` and browse to `http://localhost:7203`
 
 ####Option 2 - Serve and Debug Node
 Type `gulp serve-dev-debug` and browse to `http://localhost:7200` for the client and `http://localhost:8080/debug?port-5858` to debug the server.
